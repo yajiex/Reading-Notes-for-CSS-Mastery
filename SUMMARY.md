@@ -7,4 +7,5 @@
 * [Chapter 4: Using Backgrounds for Effect](chapter_4_using_backgrounds_for_effect.md)
 * [Chapter 5: Styling Links](chapter_5_styling_links.md)
 * [Chapter 6: Styling Lists and Creating Nav Bars](chapter_6_styling_lists_and_creating_nav_bars.md)
+* Chapter 7: Styling Forms and Data Tables
 
