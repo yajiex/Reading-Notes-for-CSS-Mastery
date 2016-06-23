@@ -11,5 +11,5 @@
 * [Chapter 8: Layout](chapter_8_layout.md)
 * [Chapter 9: Bugs and Bug Fixing](chapter_9_bugs_and_bug_fixing.md)
 * [Chapter 10: Case Study: Roma Italia](chapter_10_case_study_roma_italia.md)
-* Chapter 11: Case Study: Climb the Mountains
+* [Chapter 11: Case Study: Climb the Mountains](chapter_11_case_study_climb_the_mountains.md)
 
