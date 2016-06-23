@@ -6,4 +6,5 @@
 * [Chapter 3: Visual Formatting Model Overview](chapter_3_visual_formatting_model_overview.md)
 * [Chapter 4: Using Backgrounds for Effect](chapter_4_using_backgrounds_for_effect.md)
 * [Chapter 5: Styling Links](chapter_5_styling_links.md)
+* Chapter 6: Styling Lists and Creating Nav Bars
 
