@@ -9,5 +9,5 @@
 * [Chapter 6: Styling Lists and Creating Nav Bars](chapter_6_styling_lists_and_creating_nav_bars.md)
 * [Chapter 7: Styling Forms and Data Tables](chapter_7_styling_forms_and_data_tables.md)
 * [Chapter 8: Layout](chapter_8_layout.md)
-* Chapter 9: Bugs and Bug Fixing
+* [Chapter 9: Bugs and Bug Fixing](chapter_9_bugs_and_bug_fixing.md)
 
