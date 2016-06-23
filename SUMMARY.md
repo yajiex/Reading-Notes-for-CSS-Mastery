@@ -10,5 +10,5 @@
 * [Chapter 7: Styling Forms and Data Tables](chapter_7_styling_forms_and_data_tables.md)
 * [Chapter 8: Layout](chapter_8_layout.md)
 * [Chapter 9: Bugs and Bug Fixing](chapter_9_bugs_and_bug_fixing.md)
-* Chapter 10: Case Study: Roma Italia
+* [Chapter 10: Case Study: Roma Italia](chapter_10_case_study_roma_italia.md)
 
